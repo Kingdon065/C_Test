@@ -1,0 +1,10 @@
+{
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "python.pythonPath": "H:\\Program_Files\\Python38\\python.exe",
+    "editor.fontFamily": "Consolas, 'Courier New', monospace, 'Source Code Pro'"
+}
